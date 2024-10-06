@@ -25,7 +25,7 @@ serde_derive = "^ 1.0"
 yup-oauth2 = "^ 6.0"
 itertools = "^ 0.10"
 hyper = "^ 0.14"
-url = "= 1.7"
+url = "2"
 
 
 
